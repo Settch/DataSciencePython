@@ -1,0 +1,18 @@
+Data,Produto,Categoria,Quantidade,Preço
+2024-01-03,Mouse,Periféricos,2,49.90
+2024-01-05,Teclado,Periféricos,1,99.00
+2024-02-10,Monitor,Monitores,1,899.00
+2024-03-12,Headset,Periféricos,3,159.90
+2024-03-15,Mousepad,Periféricos,5,19.90
+2024-04-01,Notebook,Computadores,2,3500.00
+2024-04-10,Impressora,Periféricos,1,549.90
+2024-05-02,Webcam,Periféricos,4,249.90
+2024-05-10,Monitor,Monitores,1,799.00
+2024-06-15,Cadeira,Escritório,1,899.00
+2024-07-03,Teclado,Periféricos,2,79.90
+2024-08-10,Smartphone,Eletrônicos,3,1299.00
+2024-08-18,Mouse,Periféricos,4,59.90
+2024-09-05,Tablet,Eletrônicos,2,1499.00
+2024-09-20,Alto-falante,Periféricos,3,299.00
+2024-10-10,Monitor Curvo,Monitores,1,1799.00
+2024-10-25,Router,Redes,2,329.00
